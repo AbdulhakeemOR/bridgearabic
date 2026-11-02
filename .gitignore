@@ -1,0 +1,5 @@
+tools/
+qa/
+*.tar.gz
+__pycache__/
+.openai/
